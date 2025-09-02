@@ -50,9 +50,5 @@ a:hover{
 }
 
 .hero > h2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 500px;
-    
 }
